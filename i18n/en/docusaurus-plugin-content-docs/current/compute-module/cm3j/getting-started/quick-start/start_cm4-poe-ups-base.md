@@ -69,7 +69,7 @@ Please refer to the [Install System](../install-os/) section to choose the metho
 
 <img src="/img/cm3j/cm4-poe-ups-base-hdmi-wire.webp" width="500" alt="cm3j hdmi" />
 
-3. Connect the USB mouse and keyboard to any USB 2.0 port on the WaveShare CM4-POE-UPS-BASE.
+4. Connect the USB mouse and keyboard to any USB 2.0 port on the WaveShare CM4-POE-UPS-BASE.
 
 <img src="/img/cm3j/cm4-poe-ups-base-usb-wire.webp" width="500" alt="cm3j usb" />
 
@@ -93,4 +93,4 @@ After the system boots, the HDMI display shows the desktop.
 
 <img src="/img/cm3j/cm3j-login.webp" alt="cm3j login" style={{ width: "60%"}} />
 
-Log in using the username `radxa` and the password `radxa`.
+Log in using the username `radxa zaaaaaaaaaaaaaa` and the password `radxa`.
